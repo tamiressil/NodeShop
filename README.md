@@ -6,13 +6,13 @@
 
  - Projeto construído com base em um tutorial do Youtube.
 
- - ## Link do video:
+  ## Link do video:
 
- [Clique aqui para acessar!!]()
+ [Clique aqui para acessar!!](https://www.youtube.com/watch?v=3_tTUcfZ5Ik&list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78&index=1)
 
 
   #  Veja a página aqui:
- [Veja-o aqui!]()
+ [Veja-o aqui!](https://node-shop-nu.vercel.app/)
    
    
    
